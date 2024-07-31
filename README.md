@@ -4,9 +4,9 @@ _Supplemental web site for a software engineering research paper_
 This supplementary web site enriches the paper "Mind the Gap: Prioritizing Test Gaps by Risk
 in Industrial Practice". We list [research](#research-questions) and [interview questions](#interview-questions) of our semi-structured interviews that we conducted to answer RQ4 (Expert Assessment) and provide access to the [plotting scripts](#plotting-scripts) used for the paper charts, for reproducibility.
 
-## RQ4: Semi-Structured Interviews with Quality Engineers
+# RQ4: Semi-Structured Interviews with Quality Engineers
 
-### Research Questions
+## Research Questions
 
 1. How do Quality Engineers justify a higher risk of test gaps?
 2. Do Quality Engineers consider our metrics used for the prioritization to be meaningful and representative with regard to the risk of test gaps?
@@ -17,7 +17,7 @@ in Industrial Practice". We list [research](#research-questions) and [interview 
 7. To what extent do subjective assumptions and experience of Quality Engineers play a role in the manual risk assessment of test gaps?
 8. Do Quality Engineers believe that the test gap prioritization process can support them in their day-to-day work and if so, how?
 
-### Interview Questions
+## Interview Questions
 
  * Please weigh up the test gaps in pairs with regard to their risk.
  * Do you consider the metrics on which the risk score is based to be meaningful and representative of the actual risk?
