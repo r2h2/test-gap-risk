@@ -2,9 +2,9 @@
 _Supplemental web site for a software engineering research paper_
 
 This supplementary web site enriches the paper "Mind the Gap: Prioritizing Test Gaps by Risk
-in Industrial Practice". We list research and interview questions of our semi-structured interviews that we conducted to answer RQ4 (Expert Assessment of Method and Tool) and provide access to the plotting scripts used for the paper charts, for reproducibility.
+in Industrial Practice". We list [research](#research-questions) and [interview questions](#interview-questions) of our semi-structured interviews that we conducted to answer RQ4 (Expert Assessment) and provide access to the [plotting scripts](#plotting-scripts) used for the paper charts, for reproducibility.
 
-## Semi-Structured Interviews with Quality Engineers
+## RQ4: Semi-Structured Interviews with Quality Engineers
 
 ### Research Questions
 
@@ -32,5 +32,5 @@ in Industrial Practice". We list research and interview questions of our semi-st
 Due to confidentiality agreements, we cannot provide access to the raw data obtained during our study.
 For reproducibility reasons we publish scripts that generate the plots of our paper, which also contain the presented data in an aggregated manner:
 
-* [Statistics-TestGapRadar-public.ipynb](https://github.com/r2h2/estimating-test-gap-risk/blob/main/Statistics-TestRiskRadar-public.ipynb): Kernel density plot of scaled rankings for test gaps labeled as risky (RQ1)
-* [Prioritization-Analysis-public.ipynb](https://github.com/r2h2/estimating-test-gap-risk/blob/main/Prioritization-Analysis-public.ipynb): Correlation analysis and ANOVA (RQ2)
+* [Statistics-TestGapRadar-public.ipynb](https://anonymous.4open.science/r/test-gap-risk-5228/Statistics-TestGapRadar-public.ipynb): Kernel density plot of scaled rankings for test gaps labeled as risky (RQ1)
+* [Prioritization-Analysis-public.ipynb](https://anonymous.4open.science/r/test-gap-risk-5228/Prioritization-Analysis-public.ipynb): Correlation analysis and ANOVA (RQ2)
